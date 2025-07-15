@@ -16,7 +16,7 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = 'Disneyplus TV'
+project = 'Avg Retail'
 
 
 # The full version, including alpha/beta/rc tags
